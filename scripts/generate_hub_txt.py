@@ -1,5 +1,5 @@
 ##########################################################################################
-# Note! currently, you should have access to UCSC Expanse system for this script to work #
+# Note! currently, you should have access to UCSD Expanse system for this script to work #
 ##########################################################################################
 
 import os
