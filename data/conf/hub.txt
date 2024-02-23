@@ -1,6 +1,6 @@
 hub ImpactHub
 shortLabel IMPACT regulatory element activity
-longLabel Cell-type-specific regulatory element activity profiles across 707 unique combinations of transcription factor-cell type pairs. IMPACT predicts the epigenetic regulatory activity related to a particular transcription factor in a given cell type. IMPACT scores are probabilistic, ranging from 0 to 1.
+longLabel Cell-type-specific regulatory element activity profiles across 707 unique combinations of transcription factor-cell type pairs. IMPACT predicts the epigenetic regulatory activity related to a particular transcription factor in a given cell type.
 useOneFile on
 email korzhakova.alyona@gmail.com
 descriptionUrl https://www.amariutalab.org/genomebrowser

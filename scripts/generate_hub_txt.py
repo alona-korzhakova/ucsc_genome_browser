@@ -50,8 +50,7 @@ with open(hub_file, 'w') as hub_file:
     hub_file.write("shortLabel IMPACT regulatory element activity\n")
     hub_file.write("longLabel Cell-type-specific regulatory element activity profiles across 707 unique "
                     "combinations of transcription factor-cell type pairs. IMPACT predicts the epigenetic "
-                    "regulatory activity related to a particular transcription factor in a given cell type. "
-                    "IMPACT scores are probabilistic, ranging from 0 to 1.\n")
+                    "regulatory activity related to a particular transcription factor in a given cell type.\n")
     hub_file.write("useOneFile on\n")
     hub_file.write("email korzhakova.alyona@gmail.com\n")
     hub_file.write("descriptionUrl https://www.amariutalab.org/genomebrowser\n")
